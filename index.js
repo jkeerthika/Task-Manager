@@ -126,11 +126,7 @@ AddTask.addEventListener("click", function () {
          pending++;
          pend.innerHTML = pending;
 
-         // No Task here upload
-
-
-
-
+ 
       }
       Input.value = "";
    }
